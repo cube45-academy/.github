@@ -18,7 +18,7 @@ If you fix every comments I made, I will mark the pull request as "Accepted" : t
 ## Rules
 
 - You may use google/stackoverflow/youtube/whatever website to know how to do things
-- You may ask questions by raising issues to the challenge repository
+- You may ask questions by creating discussions in the challenge repository
 - You may use whatever language/tool/IDE you want, unless specified.
 - There's no point in cheating. Really do the work and you'll improve your skills. If you want to be a painter, asking others to paint on your behalf is not an efficient way to improve your painting skills.
 That's not to say you cannot ask for help from a friend, as long as he teaches you how to do and you understand what you're doing.
