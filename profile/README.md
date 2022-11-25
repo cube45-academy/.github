@@ -28,6 +28,7 @@ That's not to say you cannot ask for help from a friend, as long as he teaches y
 The challenges are independent, you can pick whichever you want, but they are sorted by difficulty (in my own point of view).
 
 - [Know how to make a PR on GitHub](https://github.com/cube45-academy/challenge-github)
+- [Know how to track bugs in a program and fix them](https://github.com/cube45-academy/challenge-bug-tracking)
 
 ## Why ?
 
