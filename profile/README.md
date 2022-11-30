@@ -29,6 +29,7 @@ The challenges are independent, you can pick whichever you want, but they are so
 
 - [Know how to make a PR on GitHub](https://github.com/cube45-academy/challenge-github)
 - [Know how to track bugs in a program and fix them](https://github.com/cube45-academy/challenge-bug-tracking)
+- [Know how to create a reusable UI component](https://github.com/cube45-academy/challenge-ui-component)
 
 ## Why ?
 
